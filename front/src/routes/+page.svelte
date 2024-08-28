@@ -221,7 +221,7 @@
                         <td>6</td>
                     </tr>
                     <tr>
-                        <td>Steel Banana</td>
+                        <td>Thena Meme Good</td>
                         <td>{items.steel.length}</td>
                         <td>7</td>
                     </tr>
@@ -273,7 +273,7 @@
   <select id="default_select" bind:value={minDif}>
     <option value="0" disabled selected>Select...</option>
     <option value="6">Normal</option>
-    <option value="7">Steel</option>
+    <option value="7">Thena Meme Good</option>
     <option value="8">Golden</option>
     <option value="9">Crystal</option>
     <option value="10">Mystic</option>
