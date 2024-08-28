@@ -22,6 +22,15 @@ Using `THENA's ve3,3 gauge voting system` we have created an innovative Memecoin
 - Being a mined coin with the Anti-Whale property, a fair distribution of tokens is realized.
 - To ensure the life of the project we will create an `initial liquidity pool` locked for 12 months and unlocked 10 % per month.
 
+## Roadmap
+
+- Implement the voting system so that the community can choose the future of the project
+- [Front] Inventory page - an inventory page where the user can view his or her assets
+- [Front] manage token page - where the user can manage his bananas(erc20): transfer, swap add liquidity, etc.
+- Create independent minters for each erc20, for each erc115 id a different minter could be configured.
+- Each erc1155 id would have an id based on the token, allowing it to have the same id in all chains and to be bridged from one chain to another.
+- Add a paymaster to be able to subsidize transactions
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -107,18 +116,10 @@ Types of Banana
 -------------
 
 -   **Normal Banana**: A plain, smooth white Banana.
--   **Steel Banana**: A shiny, metallic Banana with a platinum-like appearance.
+-   **Banana Thena Meme for Good**: powerade 
 -   **Golden Banana**: A golden Banana with a glowing aura.
 -   **Crystal Banana**: A transparent Banana with multicolored reflections.
 -   **Mystic Banana**: An Banana covered in ancient runes, emitting a faint purple glow.
-
-TODO
-------------
-
-- [Front] Inventory page
-- Create independent minters for each erc20, for each erc115 id a different minter could be configured.
-- Each erc1155 id would have an id based on the token, allowing it to have the same id in all chains and to be bridged from one chain to another.
-- Add a zk paymaster to be able to subsidize transactions
 
 Contributing
 ------------
