@@ -95,8 +95,8 @@ connect your wallet
 ### OPBNB Testnet Network
 
 - Banana.sol: [0xDAB94fca9D17e8bce5aEff770C3eEB32e10a654b](https://opbnb-testnet.bscscan.com/address/0xDAB94fca9D17e8bce5aEff770C3eEB32e10a654b)
-    - Transaction `mintBatch`: [](https://opbnb-testnet.bscscan.com/tx/)
-    - Transaction `mintBatch`: [](https://opbnb-testnet.bscscan.com/tx/)
+    - Transaction `mintBatch`: [0xd34e5393e248726b31db58e6baf22a1fc170a225412a81c88b9ed57078722e54](https://opbnb-testnet.bscscan.com/tx/0xd34e5393e248726b31db58e6baf22a1fc170a225412a81c88b9ed57078722e54)
+    - Transaction `mintBatch`: [0x2ce56f3140811eaeab7563c25421be654ab5071aba7becb3d6f7ec9979d39481](https://testnet.opbnbscan.com/tx/0x2ce56f3140811eaeab7563c25421be654ab5071aba7becb3d6f7ec9979d39481)
 - BananaVoting.sol: [0xF78695829c3Ee4c9B8b145456Db31b8684532d25](https://opbnb-testnet.bscscan.com/address/0xF78695829c3Ee4c9B8b145456Db31b8684532d25)
 - BananaFeeOnTransfer.sol[1]: [0x4996fb3a9B2ffF19fa77d9720085eB7c7D447F2F](https://opbnb-testnet.bscscan.com/address/0x4996fb3a9B2ffF19fa77d9720085eB7c7D447F2F)
 - BananaFeeOnTransfer.sol[2]: [0xAb6a4AEdD9ED1a7B368E93fCA480f27e78340966](https://opbnb-testnet.bscscan.com/address/0xAb6a4AEdD9ED1a7B368E93fCA480f27e78340966)
