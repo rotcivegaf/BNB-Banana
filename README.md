@@ -72,15 +72,14 @@ connect your wallet
 
 ### Bsc Testnet
 
-- Banana.sol: [0xB82A4C77a57A08109D9EC0f338a944f1D4f7229B](https://testnet.bscscan.com/address/0xB82A4C77a57A08109D9EC0f338a944f1D4f7229B)
-    - Transaction `mintBatch`: [0xc3bca9c9a8ff3c7cde69ae5a7c9648374da0c054271837e8167953214e9343f5](https://testnet.bscscan.com/tx/0xc3bca9c9a8ff3c7cde69ae5a7c9648374da0c054271837e8167953214e9343f5)
-    - Transaction `mintBatch`: [0x8ccce25e1933833772d0d9e0c47c26320e06473de705829a0d10e794f8f98be3](https://testnet.bscscan.com/tx/0x8ccce25e1933833772d0d9e0c47c26320e06473de705829a0d10e794f8f98be3)
-- BananaVoting.sol: [0x4f818C1e8ed8852eD5c84D4198b5E2659008586a](https://testnet.bscscan.com/address/0x4f818C1e8ed8852eD5c84D4198b5E2659008586a)
-- BananaFeeOnTransfer.sol[1]: [0x3Ec5C0A31D779cdEd116741bc3E0f2713E39CA14](https://testnet.bscscan.com/address/0x3Ec5C0A31D779cdEd116741bc3E0f2713E39CA14)
-- BananaFeeOnTransfer.sol[2]: [0xAd43AbaeD15e41176F666DF2935f1249560e4456](https://testnet.bscscan.com/address/0xAd43AbaeD15e41176F666DF2935f1249560e4456)
-- BananaFeeOnTransfer.sol[3]: [0x617f1025F1e41Df21d02b35a2DbbA1a0725420ED](https://testnet.bscscan.com/address/0x617f1025F1e41Df21d02b35a2DbbA1a0725420ED)
-- BananaFeeOnTransfer.sol[4]: [0x9d8D5DDc5596E821816c0f31c7A1dD2ef1C1C5AA](https://testnet.bscscan.com/address/0x9d8D5DDc5596E821816c0f31c7A1dD2ef1C1C5AA)
-
+- Banana.sol: [0x0305768b3c1d0919a94b121E77153888C55d1326](https://testnet.bscscan.com/address/0x0305768b3c1d0919a94b121E77153888C55d1326)
+    - Transaction `mintBatch`: [0x9e4ac971d264c926692d8e1ea6ea52ffa73e2664b5400e2aa5a88556f454058d](https://testnet.bscscan.com/tx/0x9e4ac971d264c926692d8e1ea6ea52ffa73e2664b5400e2aa5a88556f454058d)
+    - Transaction `mintBatch`: [0x92a743d7a6d0cd7742b4c9dfd360b0415e05fccb52041a94127055f2fa086711](https://testnet.bscscan.com/tx/0x92a743d7a6d0cd7742b4c9dfd360b0415e05fccb52041a94127055f2fa086711)
+- BananaVoting.sol[0]: [0xDE4C13ACc6E2B5423f5Cf8FD95234C21696F4934](https://testnet.bscscan.com/address/0xDE4C13ACc6E2B5423f5Cf8FD95234C21696F4934)
+- BananaThenaMemeGood.sol[1]: [0x5704137D54f2CA861b77e7A61d66aadCeaa43B3B](https://testnet.bscscan.com/address/0x5704137D54f2CA861b77e7A61d66aadCeaa43B3B)
+- BananaFeeOnTransfer.sol[2]: [0x55Bdc71C2D7EcEEF609C5871AC9D06326626E174](https://testnet.bscscan.com/address/0x55Bdc71C2D7EcEEF609C5871AC9D06326626E174)
+- BananaFeeOnTransfer.sol[3]: [0x2cbcA1B2823b4eBC81CA48Cf2aD3f32eDf6BAbC3](https://testnet.bscscan.com/address/0x2cbcA1B2823b4eBC81CA48Cf2aD3f32eDf6BAbC3)
+- BananaFeeOnTransfer.sol[4]: [0x36974B3807e5766dD5C6f835c3bE08dE12C544e1](https://testnet.bscscan.com/address/0x36974B3807e5766dD5C6f835c3bE08dE12C544e1)
 
 ### OPBNB Testnet Network
 

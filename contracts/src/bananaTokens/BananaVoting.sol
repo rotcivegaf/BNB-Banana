@@ -25,7 +25,7 @@ contract BananaVoting is ITokenBase, ERC20, ERC20Permit, ERC20Votes {
     function mint(address to, uint256 amount) external virtual {
         require(msg.sender == _owner, "!owner");
         unchecked {
-            _mint(to, amount * decimals());
+            _mint(to, amount * (10 ** decimals()));
         }
     }
 

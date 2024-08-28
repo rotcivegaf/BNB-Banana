@@ -69,9 +69,9 @@ export const chainId = derived(modal, $modal => {
 
 export function getBananaAddr() {
   if(get(config).state.chainId == bscTestnet.id) // bscTestnet
-    return '0xB82A4C77a57A08109D9EC0f338a944f1D4f7229B';
+    return '0x0305768b3c1d0919a94b121E77153888C55d1326';
   else if(get(config).state.chainId == opBNBTestnet.id) // opBNBTestnet
-    return '0x171be1088EC661c510B3e688913A6dC039b7e470';
+    return '';
   else 
     throw new Error("Wrong chain");    
 } 

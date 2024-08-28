@@ -4,6 +4,7 @@ pragma solidity 0.8.26;
 import "forge-std/Script.sol";
 import {Banana} from "../src/Banana.sol";
 import {BananaVoting} from "../src/bananaTokens/BananaVoting.sol";
+import {BananaThenaMemeGood} from "../src/bananaTokens/BananaThenaMemeGood.sol";
 import {BananaFeeOnTransfer} from "../src/bananaTokens/BananaFeeOnTransfer.sol";
 
 contract Deploy is Script {
@@ -14,7 +15,7 @@ contract Deploy is Script {
 
         address token0 = address(new BananaVoting(_banana));
         banana.addToken(token0, 0);
-        address token1 = address(new BananaFeeOnTransfer(_banana, msg.sender));
+        address token1 = address(new BananaThenaMemeGood(_banana, msg.sender));
         banana.addToken(token1, 1);
         address token2 = address(new BananaFeeOnTransfer(_banana, msg.sender));
         banana.addToken(token2, 2);

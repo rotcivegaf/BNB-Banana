@@ -27,6 +27,7 @@ contract BananaThenaMemeGood is BananaBase {
         address _charityMultisig
     ) BananaBase("Banana-Thena-MemeGood", "BNNTMG", 18, _owner) {
         charityMultisig = _charityMultisig;
+        _mint(address(this), 1);
     }
 
     function transfer(address to, uint256 amount) public override returns (bool) {
@@ -86,7 +87,7 @@ contract BananaThenaMemeGood is BananaBase {
     function mint(address to, uint256 amount) external override {
         require(msg.sender == _owner, "!owner");
 
-        uint256 amountToMint = amount * decimals;
+        uint256 amountToMint = amount * decimalsMul;
 
         // Anti-Whale Mechanisms
         uint256 toPerc = balanceOf[to] * BASE / totalSupply;

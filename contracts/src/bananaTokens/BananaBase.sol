@@ -8,6 +8,7 @@ import {ITokenBase} from "../ITokenBase.sol";
 abstract contract BananaBase is ITokenBase, ERC20 {
     // owner is the 403 contract available to `mint` and `erc1155Transfer`
     address internal immutable _owner;
+    uint256 internal immutable decimalsMul;
 
     constructor(
         string memory _name,
@@ -18,12 +19,13 @@ abstract contract BananaBase is ITokenBase, ERC20 {
         _owner = __owner;
         _name = string.concat("Banana-", _name);
         _symbol = string.concat("BNN-", _symbol);
+        decimalsMul = 10 ** _decimals;
     }
 
     function erc1155Transfer(address from, address to, uint256 amount) external virtual {
         require(msg.sender == _owner, "!owner");
         unchecked {
-            amount *= decimals;
+            amount *= decimalsMul;
         }
         balanceOf[from] -= amount;
 
@@ -39,7 +41,7 @@ abstract contract BananaBase is ITokenBase, ERC20 {
     function mint(address to, uint256 amount) external virtual {
         require(msg.sender == _owner, "!owner");
         unchecked {
-            _mint(to, amount * decimals);
+            _mint(to, amount * decimalsMul);
         }
     }
 }
