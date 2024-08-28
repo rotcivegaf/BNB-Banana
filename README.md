@@ -4,12 +4,23 @@ Welcome to Banana Idle Miner, an innovative idle mining game that combines the e
 
 We have created a new ERC, the ERC403, which makes it possible for each ERC1155 id to be an ERC20.
 
+### [ID 0] Banana voting contract
+
 The ERC1155 ID `0` is the voting contract, with which the future of the project can be decided, the community can choose:
 - Create new banana ERC20 tokens
 - Choose its icon
 - The type of ERC20 (fee on transfer, rebasing, burning, auto liquidity, etc)
 - Choose and change mining difficulty
 - Etc.
+
+### Banana Thena Meme for Good
+
+Using `THENA's ve3,3 gauge voting system` we have created an innovative Memecoin managed by the community and destined to promote different charities for good, some features:
+- Charity: when transferring this coin a percentage(30% max) of this amount is destined to charity which will be deposited in a `thena gauge` to generate rewards, in turn also receives rewards from the `Anti-Whale Mechanisms`, these tokens are used by the `charityMultisig` to promote charity for good and finally the `charityMultisig` is managed by the voting contract(ID: 0) of the community.
+- Anti-Whale Mechanisms: When mining this coin if the user is a whale (has more than 10% of the totalSupply) a 50% fee is charged which goes to the `charityMultisig`.
+- Use of `THENA's ve3,3 gauge voting system` to generate rewards and incentivize liquidity.
+- Being a mined coin with the Anti-Whale property, a fair distribution of tokens is realized.
+- To ensure the life of the project we will create an `initial liquidity pool` locked for 12 months and unlocked 10 % per month.
 
 ## Table of Contents
 

@@ -7,7 +7,7 @@ import {ITokenBase} from "../ITokenBase.sol";
 
 abstract contract BananaBase is ITokenBase, ERC20 {
     // owner is the 403 contract available to `mint` and `erc1155Transfer`
-    address private immutable _owner;
+    address internal immutable _owner;
 
     constructor(
         string memory _name,
