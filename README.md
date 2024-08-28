@@ -94,14 +94,14 @@ connect your wallet
 
 ### OPBNB Testnet Network
 
-- Banana.sol: [0x171be1088EC661c510B3e688913A6dC039b7e470](https://opbnb-testnet.bscscan.com/address/0x171be1088EC661c510B3e688913A6dC039b7e470)
-    - Transaction `mintBatch`: [0x55643a063646cce5538d362c3d95d680f461c216b1ba988ddb9a2859d824aa96](https://opbnb-testnet.bscscan.com/tx/0x55643a063646cce5538d362c3d95d680f461c216b1ba988ddb9a2859d824aa96)
-    - Transaction `mintBatch`: [0x0fb7041bee2d9e985332bb0fbc79562bdafc68c3836bdc38a1f78bd95dd9cef0](https://opbnb-testnet.bscscan.com/tx/0x0fb7041bee2d9e985332bb0fbc79562bdafc68c3836bdc38a1f78bd95dd9cef0)
-- BananaVoting.sol: [0x308Ceb8D7D2C46D91Eae43607Ee4C8E148301556](https://opbnb-testnet.bscscan.com/address/0x308Ceb8D7D2C46D91Eae43607Ee4C8E148301556)
-- BananaFeeOnTransfer.sol[1]: [0x40B2d31DbFa1cb93D55CD0B4a2280036a6816Fb5](https://opbnb-testnet.bscscan.com/address/0x40B2d31DbFa1cb93D55CD0B4a2280036a6816Fb5)
-- BananaFeeOnTransfer.sol[2]: [0x88aC16f126419D10ECc97036c87f456d8464B936](https://opbnb-testnet.bscscan.com/address/0x88aC16f126419D10ECc97036c87f456d8464B936)
-- BananaFeeOnTransfer.sol[3]: [0x04e7157E00d52e4540f7bEC64ba332D6074aafb5](https://opbnb-testnet.bscscan.com/address/0x04e7157E00d52e4540f7bEC64ba332D6074aafb5)
-- BananaFeeOnTransfer.sol[4]: [0xD5184d59E4FEeCD1Ff728fb0471aF36CD0704e91](https://opbnb-testnet.bscscan.com/address/0xD5184d59E4FEeCD1Ff728fb0471aF36CD0704e91)
+- Banana.sol: [0xDAB94fca9D17e8bce5aEff770C3eEB32e10a654b](https://opbnb-testnet.bscscan.com/address/0xDAB94fca9D17e8bce5aEff770C3eEB32e10a654b)
+    - Transaction `mintBatch`: [](https://opbnb-testnet.bscscan.com/tx/)
+    - Transaction `mintBatch`: [](https://opbnb-testnet.bscscan.com/tx/)
+- BananaVoting.sol: [0xF78695829c3Ee4c9B8b145456Db31b8684532d25](https://opbnb-testnet.bscscan.com/address/0xF78695829c3Ee4c9B8b145456Db31b8684532d25)
+- BananaFeeOnTransfer.sol[1]: [0x4996fb3a9B2ffF19fa77d9720085eB7c7D447F2F](https://opbnb-testnet.bscscan.com/address/0x4996fb3a9B2ffF19fa77d9720085eB7c7D447F2F)
+- BananaFeeOnTransfer.sol[2]: [0xAb6a4AEdD9ED1a7B368E93fCA480f27e78340966](https://opbnb-testnet.bscscan.com/address/0xAb6a4AEdD9ED1a7B368E93fCA480f27e78340966)
+- BananaFeeOnTransfer.sol[3]: [0x22011d7A1ADbFC47a7355da02fC7b439AE7bB0d5](https://opbnb-testnet.bscscan.com/address/0x22011d7A1ADbFC47a7355da02fC7b439AE7bB0d5)
+- BananaFeeOnTransfer.sol[4]: [0x850EBD02A4117FE37DD938ded50bAd24D123cCa9](https://opbnb-testnet.bscscan.com/address/0x850EBD02A4117FE37DD938ded50bAd24D123cCa9)
 
 ## Usage
 -----
