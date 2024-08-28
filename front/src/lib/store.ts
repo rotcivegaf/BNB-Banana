@@ -71,7 +71,7 @@ export function getBananaAddr() {
   if(get(config).state.chainId == bscTestnet.id) // bscTestnet
     return '0x0305768b3c1d0919a94b121E77153888C55d1326';
   else if(get(config).state.chainId == opBNBTestnet.id) // opBNBTestnet
-    return '';
+    return '0xDAB94fca9D17e8bce5aEff770C3eEB32e10a654b';
   else 
     throw new Error("Wrong chain");    
 } 
