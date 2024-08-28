@@ -71,9 +71,11 @@ connect your wallet
 
 ## Code
 
-- Contract: [Banana.sol](https://github.com/rotcivegaf/Banana/blob/master/contracts/src/Banana.sol)
-- Contract: [Banana.sol](https://github.com/rotcivegaf/Banana/blob/master/contracts/src/Banana.sol)
-- Contract: [Banana.sol](https://github.com/rotcivegaf/Banana/blob/master/contracts/src/Banana.sol)
+- Contract: [Banana.sol](https://github.com/rotcivegaf/BNB-Banana/blob/main/contracts/src/Banana.sol)
+- Contract: [ERC403.sol](https://github.com/rotcivegaf/BNB-Banana/blob/main/contracts/src/ERC403.sol)
+- Contract token: [BananaVoting.sol](https://github.com/rotcivegaf/BNB-Banana/blob/main/contracts/src/bananaTokens/BananaVoting.sol)
+- Contract token: [BananaThenaMemeGood.sol](https://github.com/rotcivegaf/BNB-Banana/blob/main/contracts/src/bananaTokens/BananaThenaMemeGood.sol)
+- Contract token: [BananaFeeOnTransfer.sol](https://github.com/rotcivegaf/BNB-Banana/blob/main/contracts/src/bananaTokens/BananaFeeOnTransfer.sol)
 - Miner: [rust-banana-miner](https://github.com/rotcivegaf/Banana/tree/master/front/rust-banana-miner)
 
 
