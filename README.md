@@ -116,7 +116,7 @@ Types of Banana
 -------------
 
 -   **Normal Banana**: A plain, smooth white Banana.
--   **Banana Thena Meme for Good**: powerade 
+-   **Banana Thena Meme for Good**: powered by `THENA's ve3,3 gauge voting system`
 -   **Golden Banana**: A golden Banana with a glowing aura.
 -   **Crystal Banana**: A transparent Banana with multicolored reflections.
 -   **Mystic Banana**: An Banana covered in ancient runes, emitting a faint purple glow.
