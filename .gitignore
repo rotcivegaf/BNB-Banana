@@ -1,0 +1,11 @@
+/contracts/out/
+/contracts/cache/solidity-files-cache.json
+/contracts/lib/
+/front/node_modules/
+/contracts/cache/
+/front/.svelte-kit/
+/contracts/broadcast/Init.sol/
+/front/rust-banana-miner/target/
+/contracts/broadcast/Deploy.sol/97/run-1724812385.json
+/contracts/broadcast/
+/front/build/
